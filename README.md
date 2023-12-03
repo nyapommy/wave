@@ -5,4 +5,4 @@ Wave is an application that writes underscores in a wave-like pattern that you c
 
 Credits to:
 
-giganlak
+nyapommy
